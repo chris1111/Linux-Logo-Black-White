@@ -21,9 +21,7 @@ Download ➤ [IOS_512](https://minhaskamal.github.io/DownGit/#/home?url=https://
 
 Download ➤ [IOS_256](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chris1111/Linux-Logo-Black-White/tree/main/IOS_256)
 
-![Fedora](https://github.com/chris1111/Linux-Logo-Black-White/assets/6248794/51cb5366-1858-400d-bcc7-2feec1c
-2eece) ![Sla
-ckware](https://github.com/chris1111/Linux-Logo-Black-White/assets/6248794/6d2a60d1-e9e0-4b1c-b030-8d9ff1e0f5c3) ![Zorin](https://github.com/chris1111/Linux-Logo-Black-White/assets/6248794/23fbc460-0fbb-46ac-8d2c-7ce0c605112b)
+![Fedora](https://github.com/chris1111/Linux-Logo-Black-White/assets/6248794/51cb5366-1858-400d-bcc7-2feec1c2eece) ![Slackware](https://github.com/chris1111/Linux-Logo-Black-White/assets/6248794/6d2a60d1-e9e0-4b1c-b030-8d9ff1e0f5c3) ![Zorin](https://github.com/chris1111/Linux-Logo-Black-White/assets/6248794/23fbc460-0fbb-46ac-8d2c-7ce0c605112b)
 
 
 
