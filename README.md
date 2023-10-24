@@ -3,8 +3,8 @@ I created IOS and Android icons for 65 Linux distros, included windows10 and win
 
 Use them as you wish, and hope you like it. 
 
-- Android
- 
+### View Android complet [Icon Set](https://github.com/chris1111/Linux-Logo-Black-White/blob/main/View-Set-Android.md)
+
 Download ➤ [Android_512](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chris1111/Linux-Logo-Black-White/tree/main/Android_512)
 
 Download ➤ [Android_256](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chris1111/Linux-Logo-Black-White/tree/main/Android_256) 
