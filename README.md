@@ -5,9 +5,9 @@ Use them as you wish, and hope you like it.
 
 #### View `Android` complet [Icon Set](https://github.com/chris1111/Linux-Logo-Black-White/blob/main/View-Set-Android.md)
 
-Download ➤ [Android_512](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chris1111/Linux-Logo-Black-White/tree/main/Android_512)
+Download ➤ [Android_512](https://chris1111.github.io/DownGit/#/home?url=https://github.com/chris1111/Linux-Logo-Black-White/tree/main/Android_512)
 
-Download ➤ [Android_256](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chris1111/Linux-Logo-Black-White/tree/main/Android_256) 
+Download ➤ [Android_256](https://chris1111.github.io/DownGit/#/home?url=https://github.com/chris1111/Linux-Logo-Black-White/tree/main/Android_256) 
 
 ![Endless](https://github.com/chris1111/Linux-Logo-Black-White/assets/6248794/6ff6805f-a66e-4974-9077-704b0b0c4de0) ![Mageia
 ](https://github.com/chris1111/Linux-Logo-Black-White/assets/6248794/d93f5d9f-115a-4337-b462-af5030dadd19) ![Redhat](https://github.com/chris1111/Linux-Logo-Black-White/assets/6248794/b8a2888d-acec-4893-9b93-3067fc5021c3)
